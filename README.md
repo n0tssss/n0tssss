@@ -23,10 +23,12 @@
 
 + [主页](https://n0ts.cn/)
 + [博客](https://blog.n0ts.cn/)
++ [简约起始页](https://search.n0ts.cn/)
 + [记仇小本本](https://heng.n0ts.cn/)
 + [笔记](https://note.n0ts.cn/)
 + [lovexhj](https://lovexhj.cn/)
 + [NutsCraft](https://mc.n0ts.cn/)
++ [GeekEyes](https://www.geekeyes.cn/)
 
 <br />
 
