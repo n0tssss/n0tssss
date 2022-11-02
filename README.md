@@ -30,5 +30,5 @@
 
 <br />
 
-![Github State](https://github-readme-stats.vercel.app/api?username=n0tssss&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tssss&theme=radical)
+<!-- ![Github State](https://github-readme-stats.vercel.app/api?username=n0tssss&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tssss&theme=radical) -->
