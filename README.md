@@ -1,8 +1,8 @@
-## 你好！
-
-🧑‍💻 我是 `N0ts`，中文昵称 `坚果`  
-🔋 **兴趣**是我最好的老师  
-⌨ 全栈咸鱼一个，学的多又杂，爱好挖坑慢慢填，写一些感兴趣的项目  
+### <div align="center">🧑‍💻 我是 <code>N0ts</code>，中文昵称 <code>坚果</code></div>
+  
+  
++ ⌨ 全栈咸鱼一个，学的多又杂，爱好挖坑慢慢填，写一些感兴趣的项目  
++ 🔋 **兴趣**是我最好的老师  
 
 📁 目前已经写了下面的几个小玩意  
 
@@ -24,3 +24,6 @@
 + [笔记](https://note.n0ts.cn/)
 + [lovexhj](https://lovexhj.cn/)
 + [NutsCraft](https://mc.n0ts.cn/)
+
+![Github State](https://github-readme-stats.vercel.app/api?username=n0tssss&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tssss&theme=radical)
