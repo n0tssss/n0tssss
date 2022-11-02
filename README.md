@@ -1,6 +1,8 @@
 ## 🧑‍💻 我是 `N0ts`，中文昵称 `坚果`
 
-+ ⌨ 全栈咸鱼一个，学的多又杂，爱好挖坑慢慢填，写一些感兴趣的项目  
++ ⌨ 前端咸鱼一个  
++ 💪 爱好挖坑慢慢填，写一些感兴趣的项目  
++ 
 + 🔋 **兴趣**是我最好的老师
 
 <br />
@@ -37,5 +39,4 @@
 + [QQ Group - 坚果茶馆](https://jq.qq.com/?_wv=1027&k=Mh7ah6Dd)
 + [Email - mail@n0ts.cn](mailto:mail@n0ts.cn)
 
-<!-- ![Github State](https://github-readme-stats.vercel.app/api?username=n0tssss&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tssss&theme=radical) -->
+<img src='https://github-readme-stats.vercel.app/api?username=n0tssss&show_icons=true&hide_border=true&theme=dark&locale=cn' />
