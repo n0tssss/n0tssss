@@ -1,26 +1,27 @@
 ## 👋 Hi，我是 N0ts（坚果）
 
-全栈咸鱼一枚，靠兴趣驱动写代码。  
+一名爱折腾的独立开发者，兴趣驱动写代码。  
 喜欢挖坑，也在慢慢填坑，专注做一些**自己真的会用的项目**。
 
-- ⌨️ 前端 / Node / 工程化
-- 🔧 偏好写工具、框架、基础设施类项目
-- 🔋 坚信：**兴趣是最好的老师**
+---
+
+### 🧑‍💻 关于我
+
+- ⌨️ 全栈开发（Web / Java / Node）
+- 🔧 对工具、框架和工程化方向比较感兴趣
+- 🧩 喜欢把想法拆解成可复用的项目
+- 🔋 始终相信：**兴趣是最好的老师**
 
 ---
 
 ### 🌍 我的站点
 
-- 🏠 主页：https://n0ts.top
-- ✍️ 博客：https://blog.n0ts.top
+- 🏠 主页：https://n0ts.top  
+- ✍️ 博客：https://blog.n0ts.top  
 
 ---
 
 ### 📬 联系我
 
-- 📧 Email：mail@n0ts.top  
-- 💬 QQ 群： [坚果茶馆](https://jq.qq.com/?_wv=1027&k=Mh7ah6Dd)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=n0tssss&show_icons=true&hide_border=true&theme=dark&locale=cn" />
+- 📧 邮箱：[mail@n0ts.top](mailto:mail@n0ts.top)
+- 💬 QQ 群：[坚果茶馆](https://jq.qq.com/?_wv=1027&k=Mh7ah6Dd)
